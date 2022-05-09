@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://github.com/itsSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsSouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSouza&layout=compact&langs_count=7&theme=blue-green"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSouza&theme=dracula&hide_langs_below=1" />
+</a>
 </div>
 
   
