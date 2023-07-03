@@ -1,4 +1,4 @@
-### Olá! Eu sou Arthur, um estudante de 21 anos.
+### Olá! Eu sou Arthur.
 
 Estou empenhado em aprimorar minhas habilidades em desenvolvimento Java e estou focado no aprendizado contínuo. 
 
