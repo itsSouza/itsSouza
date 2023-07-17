@@ -9,7 +9,6 @@ E-mail: lucio.arthursouza@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/arthur-ladesouza/
 
-Twitter: https://twitter.com/Itssouuza
 
 <div align="center">
   <a href="https://github.com/itsSouza">
