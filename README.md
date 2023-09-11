@@ -1,8 +1,6 @@
 ### Olá! Eu sou Arthur.
 
-Estou empenhado em aprimorar minhas habilidades em desenvolvimento Java e estou focado no aprendizado contínuo. 
-
-Atualmente, estou explorando conceitos fundamentais, como orientação a objetos e estruturas de controle.
+Um estudante apaixonado por tecnologia e dedicado a aprender e crescer como desenvolvedor mobile. Estou em busca constante de desafios para aprimorar minhas habilidades e resolver problemas de maneira criativa.
 
 
 E-mail: lucio.arthursouza@gmail.com
